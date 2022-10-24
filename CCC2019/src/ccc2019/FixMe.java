@@ -5,7 +5,7 @@ package ccc2019;
  *
  * @author SPH_SHSM
  */
-public class fixme {
+public class FixMe {
 public static void main(String[] args) {
 scanner in = new Scanner(System.in);
 //Read in a number
@@ -18,7 +18,7 @@ scanner in = new Scanner(System.in);
  String input = in.nextline();
             //Loop through the characters
  
- char currentChar='a'
+ char currentChar="a"
  Integer currentCount='0';
  Char previousChar;
  For (int j = 0; j < input.length j++) 
